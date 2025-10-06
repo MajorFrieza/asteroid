@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which factor most affects the energy of an asteroid impact?",
+    "options": ["Color", "Diameter", "Shape", "Name"],
+    "answer": "Diameter",
+    "explanation": "The energy depends on the asteroid's mass (linked to its diameter and density) and its velocity. A larger diameter means more mass, hence more energy."
+  },
+  {
+    "question": "What is the effect of a gravity tractor on an asteroid?",
+    "options": ["Instant explosion", "Slow deflection", "Changes size", "Nothing"],
+    "answer": "Slow deflection",
+    "explanation": "A gravity tractor does not destroy the asteroid. Instead, a spacecraft hovers near it and uses gravity to slowly pull the asteroid onto a new trajectory over time."
+  },
+  {
+    "question": "Which NASA program is responsible for tracking near-Earth asteroids?",
+    "options": ["Hubble Space Telescope", "NEO Program", "Apollo Program", "Voyager"],
+    "answer": "NEO Program",
+    "explanation": "NASA’s Near-Earth Object (NEO) Program tracks asteroids and comets that pass close to Earth."
+  },
+  {
+    "question": "What secondary effect can an asteroid impact in the ocean create?",
+    "options": ["Earthquake", "Tsunami", "Volcano", "Aurora"],
+    "answer": "Tsunami",
+    "explanation": "When an asteroid strikes the ocean, the massive displacement of water can create huge tsunami waves that travel long distances."
+  },
+  {
+    "question": "What unit is commonly used to describe the energy of an asteroid impact?",
+    "options": ["Watts", "Calories", "Megatons of TNT", "Joules"],
+    "answer": "Megatons of TNT",
+    "explanation": "Impact energy is often expressed in megatons of TNT equivalent so people can compare it to nuclear weapons for scale."
+  },
+  {
+    "question": "Which strategy is NOT considered effective in asteroid deflection?",
+    "options": ["Kinetic impactor", "Gravity tractor", "Nuclear explosion nearby", "Painting the asteroid"],
+    "answer": "Painting the asteroid",
+    "explanation": "Painting the asteroid white was once suggested to change sunlight reflection, but it is not practical for real-world deflection compared to kinetic impactors or gravity tractors."
+  },
+  {
+    "question": "How often do extinction-level asteroid impacts (like the one that killed the dinosaurs) happen?",
+    "options": ["Every 100 years", "Every 1,000 years", "Every 10 million years", "Every week"],
+    "answer": "Every 10 million years",
+    "explanation": "Catastrophic impacts are extremely rare, happening roughly every 10 million years, but smaller regional impacts are more frequent."
+  },
+  {
+    "question": "What information does NASA’s NEO API provide?",
+    "options": ["Asteroid color", "Asteroid orbit, size, velocity", "Aliens", "Rocket designs"],
+    "answer": "Asteroid orbit, size, velocity",
+    "explanation": "The NASA NEO API provides orbital data, estimated sizes, and velocities of tracked asteroids and comets."
+  }
+]
