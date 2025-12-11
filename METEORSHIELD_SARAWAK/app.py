@@ -17,6 +17,8 @@ from Asteroid_Launcher_Mode import show_launcher_mode
 from pathlib import Path
 
 #testing cobaannnnnn
+#cubaan kedua testing
+#cobaannnnn ketiga
 
 # ----------------------------
 # Environment Setup
